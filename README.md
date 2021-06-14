@@ -9,7 +9,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `opencv_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/opencv/opencv.git (revision: `39d25787f16c4dd6435b9fe0a8253394ac51e7fb`)
-* git repository: https://github.com/archit120/opencv_contrib.git (revision: `5ed5df0f783fef05eebb9727b992018c3cafbc61`)
+* git repository: https://github.com/archit120/opencv_contrib.git (revision: `3178ebf514e9a59e2b673e44c790a987c3c0df73`)
 
 ## Platforms
 
