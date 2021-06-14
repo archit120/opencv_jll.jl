@@ -1,0 +1,9 @@
+[[opencv]]
+arch = "x86_64"
+git-tree-sha1 = "f227ce01058a576777d6eb524254ffeb1022d89a"
+libc = "glibc"
+os = "linux"
+
+    [[opencv.download]]
+    sha256 = "03e8d97065ca5e0363996411770ebdcfa739fb3c69a63a5685622a4da2f6b968"
+    url = "https://github.com/archit120/opencv_jll.jl/releases/download/opencv-v4.5.2+0/opencv.v4.5.2.x86_64-linux-gnu.tar.gz"
